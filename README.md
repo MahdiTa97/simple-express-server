@@ -2,6 +2,4 @@
 An express server for all requests
 
 ## Run
-1 - `yarn`
-
-2 - `yarn start`
+`yarn` & `yarn start`
